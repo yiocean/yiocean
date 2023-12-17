@@ -1,4 +1,7 @@
-### Hi there 👋
+### <div align="center">Hi👋, I'm Yi, an undergraduate student majoring in Computer Science and is passionate about machine learning and deep learning. welcome to my GitHub！</div>  
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yiocean&hide_border=true&layout=compact" align="center" /></div>  
 
 <!--
 **yiocean/yiocean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
